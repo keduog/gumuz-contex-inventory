@@ -1,0 +1,22 @@
+category,subcategory,gumuz_name,english_name,description,concept_type,familiarity,image_possible,origin,temporal_status,cultural_importance
+Built Environment,Interior,,House,A place where family members live,Tangible,High,Yes,Indigenous,Present,High
+Built Environment,Interior,,Kitchen,Space used for preparing food,Tangible,High,Yes,Indigenous,Present,High
+Built Environment,Interior,,Bedroom,Room used for sleeping,Tangible,High,Yes,Indigenous,Present,High
+Built Environment,Exterior,,Market,A place for trading goods and social interaction,Tangible,High,Yes,Indigenous,Present,High
+Built Environment,Exterior,,Town Square,A public gathering space,Tangible,Medium,Yes,Indigenous,Present,Medium
+Built Environment,Religious,,Mosque,Religious place for prayer,Tangible,High,Yes,Borrowed,Present,High
+Built Environment,Religious,,Church,Christian place of worship,Tangible,Medium,Yes,Borrowed,Present,Medium
+Social Events,Ritual,,Wedding,A cultural ceremony marking marriage,Intangible,High,Yes,Indigenous,Present,High
+Social Events,Ritual,,Funeral,A ritual for honoring the deceased,Intangible,High,Yes,Indigenous,Present,High
+Social Events,Ritual,,Naming Ceremony,Ritual of giving a name to a newborn,Intangible,Medium,Yes,Indigenous,Present,High
+Social Events,Seasonal,,New Year,A celebration marking the beginning of a new year,Intangible,Medium,Yes,Indigenous,Present,Medium
+Social Events,Cultural,,Festival,A communal cultural celebration,Intangible,Medium,Yes,Indigenous,Present,Medium
+Food and Beverages,Daily,,Staple Food,Main food consumed daily,Tangible,High,Yes,Indigenous,Present,High
+Food and Beverages,Ritual,,Ceremonial Food,Food prepared for rituals and events,Tangible,Medium,Yes,Indigenous,Present,High
+Food and Beverages,Daily,,Local Beverage,Traditional drinks used socially or ritually,Tangible,Medium,Yes,Indigenous,Present,Medium
+Tools and Instruments,Agriculture,,Farming Tool,Tool used for agricultural activities,Tangible,High,Yes,Indigenous,Present,High
+Tools and Instruments,Household,,Cooking Utensil,Tools used in food preparation,Tangible,High,Yes,Indigenous,Present,High
+Tools and Instruments,Cultural,,Musical Instrument,Instrument used in cultural performances,Tangible,Medium,Yes,Indigenous,Present,Medium
+Clothing,Daily,,Traditional Clothing,Daily cultural attire,Tangible,High,Yes,Indigenous,Present,High
+Clothing,Ceremonial,,Ceremonial Dress,Clothing used in rituals and celebrations,Tangible,Medium,Yes,Indigenous,Present,High
+Clothing,Adornment,,Jewelry,Decorative items worn for cultural or social meaning,Tangible,Medium,Yes,Indigenous,Present,Medium
