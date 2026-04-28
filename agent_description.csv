@@ -1,0 +1,14 @@
+attribute,description
+agent_id,Unique identifier
+age_group,Child / Youth / Adult / Elder
+role,Farmer / Elder / Religious leader / Youth / Artisan
+location,Village / Town / Migrated
+concept_vector,Numerical representation of known concepts
+concept_set,List of concepts known by the agent
+concept_strength,Importance/weight of each concept
+tradition_bias,Preference for indigenous concepts (0–1)
+innovation_bias,Openness to new/borrowed concepts (0–1)
+external_exposure,Level of influence from external cultures
+memory_capacity,Number of concepts agent can retain
+learning_rate,Speed of adopting new concepts
+forgetting_rate,Rate of losing concepts over time
