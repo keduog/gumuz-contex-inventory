@@ -1,0 +1,11 @@
+num_agents: 15
+num_rounds: 30
+
+new_objects:
+  - "flying machine"
+  - "smart stone"
+  - "energy box"
+  - "water cleaner"
+  - "talking tree"
+
+language_instruction: "Respond ONLY in the target endangered language."
