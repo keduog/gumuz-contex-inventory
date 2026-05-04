@@ -1,7 +1,7 @@
-# Gumuz Worldview Preservation Project
+# Gumuz Worldview Preservation and Simulation Project
 
 ## Overview
-This project aims to preserve and model the worldview of the Gumuz people by documenting and analyzing the conceptual system that shapes meaning, culture, and knowledge.
+This project aims to preserve and computationally model the worldview of the Gumuz people by documenting, representing, and **simulating** the conceptual system that shapes meaning, culture, and knowledge.
 
 Rather than focusing only on vocabulary, the project captures:
 
@@ -9,52 +9,105 @@ Rather than focusing only on vocabulary, the project captures:
 - Intangible concepts (rituals, beliefs, symbolic systems)  
 - Relationships between concepts  
 - Evolution of meaning across time  
+- **Emergence of new concepts through interaction**
 
-**Core Objective:**
-> To preserve and computationally model how the Gumuz worldview evolves, changes, and can be protected.
+### Core Objective
+To preserve and computationally model how the Gumuz worldview evolves, adapts, and can be protected under social and environmental change.
 
 ---
 
 ## Motivation
-Most language preservation efforts record words, but lose the **structure of meaning**.
+Most language preservation efforts record words but lose the structure of meaning and its dynamics.
 
 This project addresses:
+
 - Loss of cultural knowledge  
 - Conceptual flattening in AI systems  
 - Underrepresentation of low-resource languages  
+- Lack of dynamic models of cultural evolution  
 
-It shifts preservation from **static recording → dynamic modeling**.
+It shifts preservation from:
+
+> **Static recording → Dynamic, interactive, and measurable systems**
 
 ---
 
-## Concept Categories
+## Conceptual Framework
 
-### 1. Built Environment
-Physical spaces shaping daily life:
-- House, Kitchen, Market, School, Mosque, Church  
+This project operates at three interconnected levels:
 
-### 2. Social Events and Rituals
-Collective and cultural practices:
-- Wedding, Funeral, Naming Ceremony, Festivals  
+### 1. Representation (What exists)
+Concepts are encoded as structured and interpretable units:
 
-### 3. Food and Beverages
-Cultural and daily consumption patterns:
-- Traditional foods, drinks, ritual meals  
+- Objects, actions, beliefs, symbols  
+- Indigenous vs. borrowed distinctions  
+- Temporal status (past, present, emerging)
 
-### 4. Tools and Instruments
-Material interaction with environment:
-- Farming tools, utensils, musical instruments  
+### 2. Interaction (How meaning is used)
+Concepts are validated through **use in communication**, not just storage.
 
-### 5. Clothing and Adornment
-Identity and symbolic expression:
-- Daily wear, ceremonial dress, ornaments  
+### 3. Evolution (How meaning changes)
+Meaning evolves through:
+- social interaction  
+- environmental change  
+- exposure to new ideas and entities  
+
+---
+
+## Agent-Based Simulation (Core Extension)
+
+To move beyond static preservation, the project introduces an **agent-based modeling framework** where LLM-powered agents simulate a living Gumuz-speaking society.
+
+### Agents
+Each agent:
+- communicates in the Gumuz language  
+- operates over the shared conceptual space  
+- maintains memory of past interactions  
+- may take roles (e.g., elder, youth, innovator)
+
+### Environment
+The environment evolves over time through:
+
+- New objects (e.g., tools, technologies)  
+- New ideas (e.g., institutions, norms)  
+- New entities (e.g., external groups, policies)
+
+### Interaction Dynamics
+Agents:
+- negotiate meaning through dialogue  
+- generate names for unseen concepts  
+- adapt or resist external linguistic influence  
+
+---
+
+## Research Focus
+
+The simulation enables the study of:
+
+### Lexical Emergence
+How new words are created:
+- composition from existing concepts  
+- borrowing from other languages  
+- invention
+
+### Consensus Formation
+- Do agents converge on shared meanings?  
+- Under what conditions does fragmentation occur?
+
+### Conceptual Drift
+- How meanings shift over time  
+- Whether new concepts align with existing worldview structures  
+
+### Cultural Resilience
+- How the Gumuz conceptual system responds to external pressure  
+- When preservation succeeds or fails  
 
 ---
 
 ## Dataset Structure
 
 | Field | Description |
-|------|------------|
+|------|-------------|
 | category | Concept category |
 | gumuz_name | Native term |
 | english_name | Translation |
@@ -70,20 +123,44 @@ Identity and symbolic expression:
 
 ## Methodology
 
-1. **Concept Inventory**
-   - Collect and document core concepts from the Gumuz worldview  
+### 1. Concept Inventory
+- Collect and document core worldview elements  
+- Ensure community-informed validation  
 
-2. **Structured Representation**
-   - Encode concepts with attributes and relationships  
-   - Build a consistent semantic structure  
+### 2. Structured Representation
+- Encode concepts with attributes and relationships  
+- Build a consistent semantic and conceptual space  
 
-3. **Trajectory Modeling**
-   - Use Agent-Based Modeling to simulate how concepts evolve  
-   - Track changes under interaction and external influence  
+### 3. Learning-Based Representation
+- Use language models to embed and compare concepts  
+- Enable alignment and similarity analysis  
 
-4. **Learning-Based Representation**
-   - Use machine learning and language models to represent concepts  
-   - Enable comparison, alignment, and drift analysis  
+### 4. Agent-Based Simulation
+- Simulate a society of interacting agents  
+- Introduce controlled environmental changes  
+- Observe emergent language behavior  
+
+### 5. Trajectory Modeling
+- Track how concepts evolve over time  
+- Measure stability, drift, and convergence  
+
+---
+
+## Measurement and Analysis
+
+The project introduces quantitative metrics:
+
+- **Lexical Diversity**: variation in naming new concepts  
+- **Consensus Score**: agreement across agents  
+- **Conceptual Drift**: semantic change over time  
+- **Cultural Alignment**: consistency with existing worldview  
+
+### Mechanistic Analysis (AOP Integration)
+The project connects societal dynamics with internal model behavior using activation-based trajectory analysis:
+
+- Track how new concepts shift representations in model space  
+- Detect entry into previously unseen conceptual regions  
+- Identify instability or fragmentation in meaning formation  
 
 ---
 
@@ -91,32 +168,37 @@ Identity and symbolic expression:
 
 - Cultural preservation and documentation  
 - AI fairness and multilingual modeling  
-- Concept evolution and drift analysis  
-- Anthropological and social research  
+- Simulation of language evolution under pressure  
+- Anthropological and computational social science research  
+- Policy testing using simulated societies  
 
 ---
 
 ## Future Work
 
-- Expand dataset with community participation  
-- Build concept graphs and networks  
-- Develop agent-based simulation of cultural evolution  
-- Integrate reinforcement learning for concept preservation  
-- Extend framework to other low-resource languages  
+- Expand dataset through community participation  
+- Build concept graphs and relational networks  
+- Scale agent-based simulations  
+- Integrate reinforcement learning for adaptive preservation strategies  
+- Extend framework to other endangered languages  
 
 ---
 
 ## Vision
 
-> Preserve not just words, but **ways of thinking**.
+Preserve not just words, but ways of thinking.
 
-This project aims to create a new paradigm:  
-**cultural preservation as a dynamic, measurable system**.
+This project defines a new paradigm:
+
+> **Cultural preservation as a dynamic, interactive, and measurable system**
+
+It transforms language from a static artifact into a **living, evolving system** that can be studied, simulated, and protected.
 
 ---
 
 ## Author
-Kedir Yassin Hussen  
+
+**Kedir Yassin Hussen**  
 PhD Candidate in AI & Robotics  
 
 - GitHub: https://github.com/keduog  
@@ -124,4 +206,4 @@ PhD Candidate in AI & Robotics
 ---
 
 ## License
-To be defined in alignment with ethical and community guidelines.
+To be defined in alignment with ethical and community-centered guidelines.
