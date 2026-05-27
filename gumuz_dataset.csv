@@ -1,0 +1,21 @@
+﻿item_id,item_type,source_variable,order_in_source,item_text
+1,sentence,common_sentences,1,ለድ ውድ ሁሳ!
+2,sentence,common_sentences,2,ዳሽህ ጃ!
+3,sentence,common_sentences,3,ዳግህት ድጓ!
+4,sentence,common_sentences,4,ዳችሉቅ አያ!
+5,sentence,common_sentences,5,ዳክዱቁ አንቅህ  ሽሻ!
+6,sentence,common_sentences,6,ላ ጀ አንዝግት?
+7,sentence,common_sentences,7,ጃ መቶ ብር ሊያ.
+8,sentence,common_sentences,8,እንግፍ አዳኛ ሩቅ.
+9,sentence,common_sentences,9,ዳዱ ሊቁማ
+10,sentence,common_sentences,10,ዳፑቅ ዊንዝ  ድዋ
+11,noun,common_nouns,1,ድጋንፂጋ ጉንዛ
+12,noun,common_nouns,2,ባቢያ
+13,noun,common_nouns,3,እዮ
+14,noun,common_nouns,4,ኡአማ
+15,noun,common_nouns,5,ፓቱዋ
+16,noun,common_nouns,6,አያ
+17,noun,common_nouns,7,ውዱ ሁሳ
+18,noun,common_nouns,8,ድጓ
+19,noun,common_nouns,9,ማእያ
+20,noun,common_nouns,10,ድምዥጋ
